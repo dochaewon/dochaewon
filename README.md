@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django!**
 
-- 📝 I regularly write articles on [https://winniee.tistory.com/](https://winniee.tistory.com/)
+<!-- - 📝 I regularly write articles on [https://winniee.tistory.com/](https://winniee.tistory.com/) -->
 
 - 💬 Ask me about **laravel**
 
