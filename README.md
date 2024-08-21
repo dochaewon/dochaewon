@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dochaewon&label=Profile%20views&color=0e75b6&style=flat" alt="dochaewon" /> </p>
 
-- 🌱 I’m currently learning **Django!**
+- 🌱 I’m currently learning **Laravel!**
 
 <!-- - 📝 I regularly write articles on [https://winniee.tistory.com/](https://winniee.tistory.com/) -->
 
