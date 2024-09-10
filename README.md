@@ -25,11 +25,16 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Phalcon-%2336F742.svg?&style=for-the-badge&logo=phalcon&logoColor=white" alt="Phalcon"/>
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
