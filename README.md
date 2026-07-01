@@ -12,13 +12,6 @@
   <em>📫 Reach me at:</em> <strong><a href="mailto:winniee940124@gmail.com">winniee940124@gmail.com</a></strong>
 </p>
 
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://instagram.com/chaewon_do_winnie" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.leetcode.com/winniedo" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-</p>
 
 ---
 
